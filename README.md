@@ -107,9 +107,9 @@ https://youtu.be/5rx0Bzr42X8
 
 6. CONCLUSIONES
 
-*
+* Se llega a la conclusión de que la programación por bloques es mucho mas interactiva que la programación habitual por texto lo cual ayuda de manera inmensa a la comprensión de   la lógica de programación. 
 
-* 
+* Se concluye que la programación por bloques es programación de alto nivel ya que se puede hacer los mismo que la programación en texto, pero con ciertas limitaciones.
 
 7. BIBLIOGRAFÍA
 
