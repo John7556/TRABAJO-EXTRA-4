@@ -14,6 +14,11 @@
 2. MARCO TEÓRICO 
 
 
+![image](https://user-images.githubusercontent.com/93899720/157250617-6c23a733-b285-4dac-8eaf-f41537d13476.png)
+![image](https://user-images.githubusercontent.com/93899720/157250647-230f5127-70ff-4707-ba29-95ba0ea744d4.png)
+
+
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 MATERIALES: 
