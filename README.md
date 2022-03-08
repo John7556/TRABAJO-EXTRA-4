@@ -43,7 +43,7 @@ MATERIALES DENTRO DEL SIMULADOR:
 
 2- 
 
-Abrimos nuestro navegador de preferencia y escribimos Blocky Duino seleccionamios la primera pagina la cual nos llevara directo ala plataforma donde programaremos nuestro circuito.
+Abrimos nuestro navegador de preferencia y escribimos Blocky Duino seleccionamos la primera pagina la cual nos llevara directo ala plataforma donde programaremos nuestro circuito.
 
 ![image](https://user-images.githubusercontent.com/93899720/157211383-ac83c535-9fbc-41e6-94b1-ff6341d29985.png)
 
