@@ -97,6 +97,26 @@ Ya revisado el codigo y viendo que todo esta programado correctamente procedemos
 
 Como podemos ver el circuito se ejecuta sin ningun problema por lo que la programacion en bloques fue hecha correctamente.
 
+
+Ahora se procede a realizar el circuito en fisico, como primer paso colocamos el pulsador en el protoboard.
+
+
+![WhatsApp Image 2022-03-08 at 2 20 34 PM](https://user-images.githubusercontent.com/93899720/157313520-7ef0d062-fd4f-4261-b146-1f318932ccee.jpeg)
+![WhatsApp Image 2022-03-08 at 2 20 34 PM (1)](https://user-images.githubusercontent.com/93899720/157313571-db40e594-d192-4e62-a694-6055faaa5987.jpeg)
+
+
+Hacemos las conexiones pertinentes con las entradas del pulsador. 
+
+
+![WhatsApp Image 2022-03-08 at 2 20 34 PM (2)](https://user-images.githubusercontent.com/93899720/157313776-486d4315-8658-4ea5-a431-c3bb3828661e.jpeg)
+
+
+Como el circuito no es complejo se procede a conectar el pulsador con el servomotor y esto se conecta al arduino.
+
+
+![WhatsApp Image 2022-03-08 at 2 20 35 PM](https://user-images.githubusercontent.com/93899720/157313927-dca7d594-96fc-4777-bfcc-7cef36b2cb42.jpeg)
+
+
 4. RESPUESTA A INTERROGANTES 
 
 Que progrmacion es mas efectiva la programacion por texto o la programacion por bloques que es la revisada en este proyecto ?
