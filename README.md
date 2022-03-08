@@ -116,6 +116,44 @@ Como el circuito no es complejo se procede a conectar el pulsador con el servomo
 
 ![WhatsApp Image 2022-03-08 at 2 20 35 PM](https://user-images.githubusercontent.com/93899720/157313927-dca7d594-96fc-4777-bfcc-7cef36b2cb42.jpeg)
 
+Proceso de contruccion fisica del circuito.
+
+1-
+
+Colocamos nuestro pulsador de la misma forma que en nuestro simulador.
+
+![WhatsApp Image 2022-03-08 at 2 20 34 PM](https://user-images.githubusercontent.com/93899720/157329239-5b0824e4-7675-42c6-8a73-fa954c221b13.jpeg)
+
+2-
+
+Conectamos las resistencias correspondientes que en este caso es una resistencia de 1 kilohmio y de igual manera conectamos el polo positivo y negtivo de nuestro pulsador.
+
+![image](https://user-images.githubusercontent.com/93899720/157329427-ba4c9066-4d0e-4abe-b0cf-81d339da313e.png)
+
+3- 
+
+Conectamos los cables positivo y negativo de nuestro servomotor ala protoboard y de igual manera los puenteamos para que esten interconectados con el pulsador ahora conectaremos el arduino en sus respetivos pines de la siguiente manera 
+
+![image](https://user-images.githubusercontent.com/93899720/157330239-31fe0136-203b-46ff-ae76-198bd633390c.png)
+
+4-
+
+Conectamos el sensor de nuestro servomotor en el pin 9 de nuestro arduino como lo vemos en la siguiente imagen .
+
+![image](https://user-images.githubusercontent.com/93899720/157330966-140b6134-5e64-4cf9-ac61-e8c1996868da.png)
+
+5-
+
+Sacamos un cable del pin 4 que se conectara en al pulsador para tener la señal que active su movimiento.
+
+![image](https://user-images.githubusercontent.com/93899720/157331498-8265dea3-7b6f-4bf0-8585-40d139a4c7eb.png)
+
+6-
+
+Ahora copiamos nuestro codigo ejecutado con anterioriridad y lo grabamos en nuestro arduino lo que queda de la siguiente manera.
+
+![image](https://user-images.githubusercontent.com/93899720/157331885-a4d043ec-3719-43a9-9e3b-8beaa6de7e65.png)
+
 
 4. RESPUESTA A INTERROGANTES 
 
