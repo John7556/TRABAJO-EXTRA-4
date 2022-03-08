@@ -39,6 +39,8 @@ MATERIALES DENTRO DEL SIMULADOR:
 
  Primer paso explicamos cual va ser el circuito que se va a progrmar en este caso es un servomotorel cual regulara su accion de movimineto con un pulsador que estan conectados de la siguiente manera 
  
+ https://blocklyduino.github.io/BlocklyDuino/blockly/apps/blocklyduino/
+ 
  ![image](https://user-images.githubusercontent.com/93899720/157210720-f8899071-fb5e-47e4-9560-77d648e71a85.png)
 
 2- 
