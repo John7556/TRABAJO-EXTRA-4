@@ -118,6 +118,16 @@ Como el circuito no es complejo se procede a conectar el pulsador con el servomo
 
 Proceso de contruccion fisica del circuito.
 
+MATERIALES CONSTRUCCION FISICA:
+
+* ARDUINI 
+* PROTOBOARD 
+* SERVOMOTOR 
+* RESISTENCIA DE 1 KILOOHMIO 
+* CABLE DE TIMBRE 
+* PULSADOR DE 4 PINES 
+* COMPUTADORA PARA LA PROGRAMACION
+
 1-
 
 Colocamos nuestro pulsador de la misma forma que en nuestro simulador.
